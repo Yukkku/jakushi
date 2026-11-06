@@ -674,7 +674,7 @@ sleep 100
 note 69
 sleep 100
 note 67
-slee200
+sleep 200
 
 note 65
 sleep 100
